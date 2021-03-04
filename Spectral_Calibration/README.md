@@ -4,9 +4,14 @@
 
 ## Table of contents
 
+  * [Dependencies](#dependencies)
+  * [About](#about)
+  * [References](#references)
+
 ## Dependencies
 
-## Summary
+
+## About
 
 ## References
 
