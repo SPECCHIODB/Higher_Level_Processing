@@ -1,14 +1,16 @@
 # Spectral calibration in MATLAB
 
-
-
 ## Table of contents
 
-  * [Dependencies](#dependencies)
   * [About](#about)
+  * [Prerequisites](#Prerequisites)
   * [References](#references)
 
-## Dependencies
+## About
+
+MATLAB code used for spectral calibration of 4 Analytical Spectral Devices (ASD) field spectroradiometers.
+
+## Prerequisites
 
 ### SPECCHIO
 
@@ -22,8 +24,6 @@ For more information on SPECCHIO see https://specchio.ch/
 ### JControl
 
 The JControl package is needed in order to use the SPECCHIO API in MATLAB. This can be found here: https://ch.mathworks.com/matlabcentral/fileexchange/15580-using-java-swing-components-in-matlab
-
-## About
 
 ## References
 
