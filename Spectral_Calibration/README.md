@@ -27,6 +27,6 @@ The JControl package is needed in order to use the SPECCHIO API in MATLAB. This 
 
 ## References
 
-Background, methods and results from this code are explained in more detail here: *paper link*
+Background, methods and results from this code are explained in more detail here: [URL TBC]
 
 
